@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GPA_Sterlingj4_Calculator</string>
+    <string name="chemistry">Chemistry</string>
+    <string name="algebra">Algebra</string>
+    <string name="programming_2">Programming 2</string>
+    <string name="language_arts">Language Arts</string>
+    <string name="world_history">World History</string>
+    <string name="input_grade">Input grade</string>
+    <string name="please_fill_empty_fields">Please fill empty fields</string>
+    <string name="calculate_gpa">Calculate GPA</string>
+    <string name="gpa">GPA:</string>
+</resources>
